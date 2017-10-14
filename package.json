@@ -1,6 +1,6 @@
 {
   "name": "localforage-compatibility-1-4",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "A plugin that handles Safari compatibility issues when upgrading from LocalForage v1.4 to v1.5.",
   "homepage": "https://github.com/localForage-extensions/localForage-compatibility-1-4",
   "main": "dist/localforage-compatibility-1-4.js",
