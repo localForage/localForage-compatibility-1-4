@@ -58,8 +58,8 @@ function config(localforageInstance) {
     });
 }
 var index = {
-    config,
-    isIndexedDBValid
+    config: config,
+    isIndexedDBValid: isIndexedDBValid
 };
 
 return index;
