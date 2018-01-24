@@ -11,6 +11,7 @@ export default {
   },
   // sourceMap: true,
   plugins: [typescript({
+    typescript: require('typescript'),
     tsconfig: false,
     "allowSyntheticDefaultImports": true,
     "module": "es2015",
